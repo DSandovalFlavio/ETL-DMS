@@ -999,3 +999,4 @@ Order_ID,Order_Date,Ship_Date,Ship_Mode,Country_Region,City,State_Province,Posta
 952891,2018-01-01,19,Second Class,United States,Aurora,Illinois,60505,Mark Van Huff,Newell 34,17,0.05
 172539,2018-01-01,28,Expedited,United States,Vancouver,Washington,98664,Candace McMahon,iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5,40,0.14
 314576,2018-01-01,8,Expedited,Mexico,San Francisco,Jalisco,46175,James Peterman,Xerox 1993,17,0.48
+314576,2018-01-01,8,Expedited,Mexico,San Francisco,Jalisco,46175,Juan P,Xerox 1993,17,0.48
